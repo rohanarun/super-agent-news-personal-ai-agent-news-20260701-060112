@@ -1,0 +1,33 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/)",
+    "[engadget.com](https://www.engadget.com/2205605/google-gemini-spark-macos-app/)",
+    "[theverge.com](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)",
+    "[financialtimes.com](https://www.ft.com/)",
+    "[techtimes.com](https://www.techtimes.com/)",
+    "[techradar.com](https://www.techradar.com/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px/2.4 lines; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=AA pass",
+  "generated_at": "2026-07-01T06:01:20.932359+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A living market brief for buyers and builders tracking personal AI agents \u2014 from Gemini Spark\u2019s push into 24/7 agentic work to Grok\u2019s closed betas and Siri\u2019s regulatory crossroads \u2014 with a clear Super perspective on why real computer-use plus a reusable computer-use cache matters for cost, durability, and speed."
+}
